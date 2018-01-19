@@ -1,0 +1,47 @@
+2 nodes has 0 Hamiltonian Paths
+3 nodes has 0 Hamiltonian Paths
+4 nodes has 0 Hamiltonian Paths
+5 nodes has 0 Hamiltonian Paths
+6 nodes has 0 Hamiltonian Paths
+7 nodes has 0 Hamiltonian Paths
+8 nodes has 0 Hamiltonian Paths
+9 nodes has 0 Hamiltonian Paths
+10 nodes has 0 Hamiltonian Paths
+11 nodes has 0 Hamiltonian Paths
+12 nodes has 0 Hamiltonian Paths
+13 nodes has 0 Hamiltonian Paths
+14 nodes has 0 Hamiltonian Paths
+15 nodes has 1 Hamiltonian Paths
+[8, 1, 15, 10, 6, 3, 13, 12, 4, 5, 11, 14, 2, 7, 9]
+16 nodes has 1 Hamiltonian Paths
+[8, 1, 15, 10, 6, 3, 13, 12, 4, 5, 11, 14, 2, 7, 9, 16]
+17 nodes has 1 Hamiltonian Paths
+[16, 9, 7, 2, 14, 11, 5, 4, 12, 13, 3, 6, 10, 15, 1, 8, 17]
+18 nodes has 0 Hamiltonian Paths
+19 nodes has 0 Hamiltonian Paths
+20 nodes has 0 Hamiltonian Paths
+21 nodes has 0 Hamiltonian Paths
+22 nodes has 0 Hamiltonian Paths
+23 nodes has 3 Hamiltonian Paths
+[2, 23, 13, 12, 4, 21, 15, 10, 6, 19, 17, 8, 1, 3, 22, 14, 11, 5, 20, 16, 9, 7, 18]
+24 nodes has 0 Hamiltonian Paths
+25 nodes has 10 Hamiltonian Paths
+[2, 23, 13, 12, 24, 25, 11, 14, 22, 3, 1, 8, 17, 19, 6, 10, 15, 21, 4, 5, 20, 16, 9, 7, 18]
+26 nodes has 12 Hamiltonian Paths
+[2, 14, 22, 3, 13, 23, 26, 10, 6, 19, 17, 8, 1, 15, 21, 4, 12, 24, 25, 11, 5, 20, 16, 9, 7, 18]
+27 nodes has 35 Hamiltonian Paths
+[1, 8, 17, 19, 6, 3, 13, 12, 24, 25, 11, 14, 22, 27, 9, 16, 20, 5, 4, 21, 15, 10, 26, 23, 2, 7, 18]
+28 nodes has 52 Hamiltonian Paths
+[1, 15, 10, 26, 23, 13, 3, 6, 19, 17, 8, 28, 21, 4, 12, 24, 25, 11, 5, 20, 16, 9, 27, 22, 14, 2, 7, 18]
+29 nodes has 19 Hamiltonian Paths
+[1, 24, 25, 11, 5, 4, 12, 13, 3, 6, 19, 17, 8, 28, 21, 15, 10, 26, 23, 2, 14, 22, 27, 9, 16, 20, 29, 7, 18]
+30 nodes has 20 Hamiltonian Paths
+[1, 24, 25, 11, 5, 4, 12, 13, 3, 6, 30, 19, 17, 8, 28, 21, 15, 10, 26, 23, 2, 14, 22, 27, 9, 16, 20, 29, 7, 18]
+31 nodes has 349 Hamiltonian Paths
+[1, 15, 10, 6, 30, 19, 17, 8, 28, 21, 4, 5, 31, 18, 7, 29, 20, 16, 9, 27, 22, 3, 13, 12, 24, 25, 11, 14, 2, 23, 26]
+32 nodes has 392 Hamiltonian Paths
+[1, 8, 28, 21, 4, 32, 17, 19, 30, 6, 3, 13, 12, 24, 25, 11, 5, 31, 18, 7, 29, 20, 16, 9, 27, 22, 14, 2, 23, 26, 10, 15]
+33 nodes has 669 Hamiltonian Paths
+[1, 8, 28, 21, 4, 32, 17, 19, 30, 6, 3, 13, 12, 24, 25, 11, 5, 20, 29, 7, 18, 31, 33, 16, 9, 27, 22, 14, 2, 23, 26, 10, 15]
+34 nodes has 4041 Hamiltonian Paths
+[1, 3, 6, 19, 30, 34, 2, 7, 18, 31, 33, 16, 9, 27, 22, 14, 11, 25, 24, 12, 13, 23, 26, 10, 15, 21, 28, 8, 17, 32, 4, 5, 20, 29]
